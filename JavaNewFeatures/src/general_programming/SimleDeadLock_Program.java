@@ -9,6 +9,9 @@ public class SimleDeadLock_Program {
 
         Thread threadLockingResourceAFirst = new Thread(new DeadlockRunnable(resourceA, resourceB));
         Thread threadLockingResourceBFirst = new Thread(new DeadlockRunnable(resourceB, resourceA));
+        threadLockingResourceAFirst.start();
+        Thread.sleep(1000);
+        threadLockingResourceBFirst.start();
     }
 
     private static class DeadlockRunnable implements Runnable {

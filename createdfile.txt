@@ -1,0 +1,1 @@
+THis is sample texyt from java program
