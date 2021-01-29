@@ -3,7 +3,7 @@ package general_programming;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Mergin32Lists {
+public class MergingLists {
     public static void main(String[] args) {
         // create first list
         List<Integer> prime = new ArrayList<>();

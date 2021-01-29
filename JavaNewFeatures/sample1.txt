@@ -1,0 +1,2 @@
+This is from java 11 practice
+This is new string

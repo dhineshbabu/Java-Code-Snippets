@@ -12,7 +12,7 @@ public class ReadingFileLineByLine {
             int i = bs.read();
 
             while(i != -1) {
-                System.out.println((char) i);
+                System.out.print((char) i);
                 i = bs.read();
             }
             bs.close();

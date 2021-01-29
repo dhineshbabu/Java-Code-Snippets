@@ -11,7 +11,7 @@ public class InttoLongConversion {
         System.out.println(Long.class.isInstance(c));
         System.out.println(Long.class.isInstance(d));
 
-        // Using valueof method
+        // Using valueOf method
         Integer e = 325;
         long l = e.longValue();
         System.out.println(Long.class.isInstance(l));

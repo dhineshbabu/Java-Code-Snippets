@@ -8,7 +8,7 @@ public class FindCharacterFrequency {
 
         for (int i=0; i<str.length(); i++) {
             if(ch == str.charAt(i)) {
-                ++frequency;
+                frequency++;
             }
         }
         System.out.println("Frequency of the character is : " + frequency);

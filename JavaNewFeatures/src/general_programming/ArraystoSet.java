@@ -10,5 +10,6 @@ public class ArraystoSet {
         String[] array = {"a", "b", "c"};
         Set<String> set = new HashSet<>(Arrays.stream(array).collect(Collectors.toSet()));
         System.out.println(set);
+        System.out.println(set.getClass().getName());
     }
 }
