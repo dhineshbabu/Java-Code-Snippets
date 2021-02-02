@@ -1,0 +1,9 @@
+New changes in Java 13:
+-----------------------
+1. text blocks
+2. New methods in String class for Text blocks
+3. Switch expression statements
+4. Reimplementation of Legacy Socket API
+5. Dynamic class data sharing archive
+6. ZGC: Uncommit Unsaved memory
+7. FileSystems.newFileSystem() method
