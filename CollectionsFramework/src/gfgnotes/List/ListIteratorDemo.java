@@ -1,4 +1,4 @@
-package gfgnotes.introduction.streams;
+package gfgnotes.List;
 
 import java.util.*;
 
