@@ -7,7 +7,7 @@ public class Prob_KLargestElementsFromArray {
     1. Build a min heap of first k elements
     2. Traverse from (k+1) element
         2a. compare the top of the element with the next element in the arary
-            if the top is greater then leave it
+            if the top is greater than leave it
             else replace the top with the new elements from the arrayu
       3. after final loop, the minHeap will have the k largest contents
 

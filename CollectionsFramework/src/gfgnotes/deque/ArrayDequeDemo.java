@@ -1,6 +1,7 @@
 package gfgnotes.deque;
 
 import java.util.ArrayDeque;
+import java.util.Iterator;
 import java.util.Queue;
 
 public class ArrayDequeDemo {
@@ -31,5 +32,10 @@ public class ArrayDequeDemo {
         System.out.println(adqQ2.removeLast());
         adqQ2.addFirst(40);
         System.out.println(adqQ2);
+
+        Iterator it = adqQ2.descendingIterator();
+        while(it.hasNext()) {
+            System.out.print(it.next()+ " ");
+        }
     }
 }

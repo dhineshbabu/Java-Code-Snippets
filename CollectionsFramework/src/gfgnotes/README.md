@@ -7,6 +7,7 @@ List: ArrayList, Linked List
 
 #### Collection(I) interface
 
+```java
 public interface Collection<E> extends Iterable<E>
 {
 int size();
@@ -26,6 +27,9 @@ boolean addAll(Collection<? extends E> c);
 boolean removeAll(Collection<?> c);
 boolean removeIf(Predicate<? super E> filter);
 }
+
+```
+
 
 <hr/>
 #### Iterable(I) interface
@@ -61,7 +65,7 @@ boolean removeIf(Predicate<? super E> filter);
 * remove(int index)
 
 #### ArrayList
-  *  we can create an arraylist from capacity as well
+  *  we can create an arraylist from capacity as well and this is cache friendly random access
   *  internally it uses array only
   *  we can set the size by ensure capacity
   * Amortized time complexity for inserting n+1 items
@@ -237,12 +241,12 @@ boolean removeIf(Predicate<? super E> filter);
 
 ### TreeSet
 
-* Internal implementation self balancing binary search tree
+* Internal implementation self-balancing binary search tree
   * contains()
   * remove()
   * iterator()
 * It implements SortedSet
-* Other specific methods
+* Other specific methods 
   * s.lower(5)
   * s.higher(5)
   * s.floor(5)
@@ -272,7 +276,7 @@ boolean removeIf(Predicate<? super E> filter);
 ### LinkedHashMap
 
 * special constructor
-  * (initialCapacity, loadFactor, AccessOrder)
+  * (initialCapacity, loadFactor, AccessOrder) - For LRU cache implementation
 
 ### TreeMap
 
