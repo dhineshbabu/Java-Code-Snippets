@@ -1,6 +1,7 @@
 package gfgnotes.comparator;
 
 import java.util.Arrays;
+import java.util.Comparator;
 
 public class ComparatorDemo {
     public static void main(String[] args) {
@@ -12,6 +13,18 @@ public class ComparatorDemo {
 
         Arrays.sort(arr, (p1, p2) -> p1.x - p2.x);
         System.out.println(Arrays.toString(arr));
+
+
+        // another example
+        String[] strArr = {"perf", "test", "PERF", "apple"};
+        Arrays.sort(strArr, String::compareToIgnoreCase);
+        System.out.println(Arrays.toString(strArr));
+
+
+        // reverseOrder example
+        String[] arrReverse = {"gfg", "courses", "ide"};
+        Arrays.sort(arrReverse, Comparator.reverseOrder());
+        System.out.println(Arrays.toString(arrReverse));
     }
 }
 

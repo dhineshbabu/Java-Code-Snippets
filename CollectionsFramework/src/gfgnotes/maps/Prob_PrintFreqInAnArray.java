@@ -10,7 +10,7 @@ public class Prob_PrintFreqInAnArray {
             hm.put(arr[i], hm.getOrDefault(arr[i], 0) + 1);
         }
 
-        for(Map.Entry x: hm.entrySet()){
+        for(Map.Entry<Integer, Integer> x: hm.entrySet()){
             System.out.println(x.getKey() + " "  + x.getValue());
         }
     }
