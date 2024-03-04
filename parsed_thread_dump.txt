@@ -1,0 +1,618 @@
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: Reference Handler
+Elapsed Time: 
+State: java.lang.Thread.State: RUNNABLE
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: Finalizer
+Elapsed Time: 
+State: java.lang.Thread.State: WAITING (on object monitor)
+TID: 
+Waiting On: - waiting on <0x0000000700a01308> (a java.lang.ref.ReferenceQueue$Lock)
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: Signal Dispatcher
+Elapsed Time: 
+State: java.lang.Thread.State: RUNNABLE
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: Service Thread
+Elapsed Time: 
+State: java.lang.Thread.State: RUNNABLE
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: Monitor Deflation Thread
+Elapsed Time: 
+State: java.lang.Thread.State: RUNNABLE
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: C2 CompilerThread0
+Elapsed Time: 
+State: java.lang.Thread.State: RUNNABLE
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: C1 CompilerThread0
+Elapsed Time: 
+State: java.lang.Thread.State: RUNNABLE
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: Sweeper thread
+Elapsed Time: 
+State: java.lang.Thread.State: RUNNABLE
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: Notification Thread
+Elapsed Time: 
+State: java.lang.Thread.State: RUNNABLE
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: Common-Cleaner
+Elapsed Time: 
+State: java.lang.Thread.State: TIMED_WAITING (on object monitor)
+TID: 
+Waiting On: - waiting on <0x0000000700a01c90> (a java.lang.ref.ReferenceQueue$Lock)
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: Cleaner-0
+Elapsed Time: 
+State: java.lang.Thread.State: TIMED_WAITING (on object monitor)
+TID: 
+Waiting On: - waiting on <0x0000000700a024a0> (a java.lang.ref.ReferenceQueue$Lock)
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: Catalina-utility-1
+Elapsed Time: 
+State: java.lang.Thread.State: WAITING (parking)
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: Catalina-utility-2
+Elapsed Time: 
+State: java.lang.Thread.State: TIMED_WAITING (parking)
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: http-nio-8080-exec-1
+Elapsed Time: 
+State: java.lang.Thread.State: WAITING (parking)
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: http-nio-8080-exec-2
+Elapsed Time: 
+State: java.lang.Thread.State: WAITING (parking)
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: http-nio-8080-exec-3
+Elapsed Time: 
+State: java.lang.Thread.State: WAITING (parking)
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: http-nio-8080-exec-4
+Elapsed Time: 
+State: java.lang.Thread.State: WAITING (parking)
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: http-nio-8080-exec-5
+Elapsed Time: 
+State: java.lang.Thread.State: WAITING (parking)
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: http-nio-8080-exec-6
+Elapsed Time: 
+State: java.lang.Thread.State: WAITING (parking)
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: http-nio-8080-exec-7
+Elapsed Time: 
+State: java.lang.Thread.State: WAITING (parking)
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: http-nio-8080-exec-8
+Elapsed Time: 
+State: java.lang.Thread.State: WAITING (parking)
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: http-nio-8080-exec-9
+Elapsed Time: 
+State: java.lang.Thread.State: WAITING (parking)
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: http-nio-8080-exec-10
+Elapsed Time: 
+State: java.lang.Thread.State: WAITING (parking)
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: container-0
+Elapsed Time: 
+State: java.lang.Thread.State: TIMED_WAITING (sleeping)
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: http-nio-8080-Poller
+Elapsed Time: 
+State: java.lang.Thread.State: RUNNABLE
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: http-nio-8080-Acceptor
+Elapsed Time: 
+State: java.lang.Thread.State: RUNNABLE
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: DestroyJavaVM
+Elapsed Time: 
+State: java.lang.Thread.State: RUNNABLE
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: Attach Listener
+Elapsed Time: 
+State: java.lang.Thread.State: RUNNABLE
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: VM Thread
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: GC Thread#0
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: GC Thread#1
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: GC Thread#2
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: GC Thread#3
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: GC Thread#4
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: GC Thread#5
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: GC Thread#6
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: GC Thread#7
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: G1 Main Marker
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: G1 Conc#0
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: G1 Conc#1
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: G1 Refine#0
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: G1 Service
+Elapsed Time: 
+State: 
+TID: 
+
+Thread Name: VM Periodic Task Thread
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
+Elapsed Time: 
+State: 
+TID: 
+
