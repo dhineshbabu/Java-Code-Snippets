@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/designpatterns/pom.xml" />
         <option value="$PROJECT_DIR$/JavaThreadPools/pom.xml" />
+        <option value="$PROJECT_DIR$/AsyncProgramming/pom.xml" />
+        <option value="$PROJECT_DIR$/MyTools/pom.xml" />
       </list>
     </option>
   </component>

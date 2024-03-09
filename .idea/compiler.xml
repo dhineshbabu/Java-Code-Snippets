@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="designpatterns" />
+        <module name="MyTools" />
+        <module name="AsyncProgramming" />
         <module name="JavaThreadPools" />
+        <module name="designpatterns" />
       </profile>
     </annotationProcessing>
   </component>
