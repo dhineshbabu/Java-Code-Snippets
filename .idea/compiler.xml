@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MyTools" />
+        <module name="jdbcmysql" />
         <module name="AsyncProgramming" />
         <module name="JavaThreadPools" />
         <module name="designpatterns" />

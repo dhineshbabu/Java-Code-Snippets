@@ -1,6 +1,8 @@
 ### Collections Framework
 <hr />
 
+![img_1.png](img_1.png)
+
 Implementations
 List: ArrayList, Linked List
 <hr/>
@@ -49,6 +51,7 @@ boolean removeIf(Predicate<? super E> filter);
 * intermediate function, terminal function
 * NO storage, pipeline of functions, can be infinite, can be parallelized
 * can be created from collections, arrays, Files lines, methods in stream, IntStream, etc.
+![img.png](img.png)
 
 ### List Interface Methods
 * get(indx)

@@ -16,6 +16,8 @@ The Single Thread Executor has only one thread in the pool. It executes tasks se
 
 <hr />
 
-### The Scheduled Thread Pool is similar to the Fixed Thread Pool, but it is designed for executing tasks at a specific time or repeatedly at a fixed interval. You can use it to schedule tasks to run at a certain time or to repeat at a certain interval.
+### Scheduled Thread Pool
+
+The Scheduled Thread Pool is similar to the Fixed Thread Pool, but it is designed for executing tasks at a specific time or repeatedly at a fixed interval. You can use it to schedule tasks to run at a certain time or to repeat at a certain interval.
 
 <hr />
