@@ -2,12 +2,10 @@ package multithreading.module01general;
 
 public class Prob_01GeneralThread {
     public static void main(String[] args) throws InterruptedException {
-        Thread thread = new Thread(new Runnable() {
-            @Override
-            public void run() {
+        Thread thread = new Thread(() -> {
                 System.out.println("We are in thread: " + Thread.currentThread().getName());
                 System.out.println("Thread priority: " + Thread.currentThread().getPriority());
-            }
+
         });
 
         // set custom name for the thread
