@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/AsyncProgramming/pom.xml" />
         <option value="$PROJECT_DIR$/MyTools/pom.xml" />
         <option value="$PROJECT_DIR$/ConceptCoding/jdbcmysql/pom.xml" />
+        <option value="$PROJECT_DIR$/concurrentcollections/pom.xml" />
       </list>
     </option>
   </component>

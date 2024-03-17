@@ -9,6 +9,7 @@
         <module name="MyTools" />
         <module name="jdbcmysql" />
         <module name="AsyncProgramming" />
+        <module name="concurrentcollections" />
         <module name="JavaThreadPools" />
         <module name="designpatterns" />
       </profile>
